@@ -9,7 +9,10 @@ public class test
 {
     // instance variables - replace the example below with your own
     private int x;
-
+    public double height;
+    public double weight;
+    public String name;
+    
     /**
      * Constructor for objects of class test
      */
@@ -33,4 +36,5 @@ public class test
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
+    
 }
