@@ -9,6 +9,8 @@ public class test
 {
     // instance variables - replace the example below with your own
     private int x;
+    
+    // Here are the new local variables
     public double height;
     public double weight;
     public String name;
