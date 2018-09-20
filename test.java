@@ -23,7 +23,11 @@ public class test
         // initialise instance variables
         x = 0;
     }
-
+    
+    public double getHeightMeters() {
+        return height*12*2.54/100;
+    }
+    
     /**
      * An example of a method - replace this comment with your own
      *
